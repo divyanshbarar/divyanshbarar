@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on Web Projects.
 - 💬 Ask me about Python or any Programming Stuff try mostly to solve it.
 - 📫 How to reach me: [Instagram - @python_gate](https://www.instagram.com/python_gate/) , [LinkedIn - Divyansh Barar](https://www.linkedin.com/in/divyansh-barar-76b996192/)
-- ⚡ I am a Code Blooded Developer
+- ⚡ I am a Code Blooded Developer who is always keen to learn new things because learning never stop.
    
 
 <a href="https://github.com/divyanshbarar">
