@@ -24,7 +24,7 @@
 
 
 
-- 🔭 I’m currently looking for work as intern for Full Stack Developer(Web).
+- 🔭 I’m currently looking for work as intern for Back-end Developer.
 - 🌱 I’m currently learning React.js .
 - 👯 I’m looking to collaborate on Web Projects.
 - 💬 Ask me about Python or any Programming Stuff try mostly to solve it.
